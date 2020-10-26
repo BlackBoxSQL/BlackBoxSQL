@@ -21,4 +21,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BlackBoxSQL)](https://github.com/BlackBoxSQL/github-readme-stats)
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=BlackBoxSQL&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=BlackBoxSQL&repo=github-readme-stats)](https://github.com/BlackBoxSQL/github-readme-stats)
