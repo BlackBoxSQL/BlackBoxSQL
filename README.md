@@ -7,7 +7,7 @@
   
 - 📫 How to reach me **pythonboy007@gmail.com**  
   
-- ⚡ Fun fact **I love doing standup comedy also play the Guitar. Love to travel. Planning to do more long ride motorcycle camping.**  
+- ⚡ Fun fact **I love doing standup comedy also play the guitar, love to travel, planning to do more long ride motorcycle camping.**  
   
 <h3 align="left">Connect with me:</h3>  
 <p align="left">  
