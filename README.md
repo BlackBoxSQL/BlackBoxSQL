@@ -1,8 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nazibur Rahman</h1>  
 <h3 align="center">A programming enthusiast from Bangladesh.</h3>
-
-![Hey there, I'm Nazibur Rahman. I'm a software developer, programming enthusiast.](https://github.com/CyrisXD/CyrisXD/raw/master/bio.gif)
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=blackboxsql&label=Profile%20views&color=0e75b6&style=flat" alt="blackboxsql" /> </p>  
   
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=blackboxsql" alt="blackboxsql" /></a> </p>  
