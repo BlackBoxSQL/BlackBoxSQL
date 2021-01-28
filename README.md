@@ -1,5 +1,6 @@
 <h2 align="right">Hi 👋, I'm Nazibur Rahman</h2>  
-<h6 align="right">A programming enthusiast from Bangladesh. 🇧🇩 </h6>
+<h6 align="right">A programming enthusiast from Bangladesh. 🇧🇩</h6>
+
 <p align="left"><img src="https://komarev.com/ghpvc/?username=blackboxsql&label=PROFILE+VIEWS&style=flat&color=brightgreen" alt="blackboxsql" /></p>
 
 -   📫 How to reach me **n.rahman.nazib@gmail.com**
