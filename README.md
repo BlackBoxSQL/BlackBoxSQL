@@ -4,7 +4,7 @@
   
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=blackboxsql" alt="blackboxsql" /></a> </p>  
   
-- 📫 How to reach me **pythonboy007@gmail.com**  
+- 📫 How to reach me **n.rahman.nazib@gmail.com**  
   
 - ⚡ Fun fact **I love doing standup comedy also play the guitar, love to travel, planning to do more long ride motorcycle camping.**  
   
