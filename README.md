@@ -20,6 +20,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BlackBoxSQL&theme=onedark)](https://github.com/BlackBoxSQL/github-readme-stats)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BlackBoxSQL&repo=PHP-pdf)](https://github.com/BlackBoxSQL/PHP-pdf)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BlackBoxSQL&theme=onedark&repo=PHP-pdf)](https://github.com/BlackBoxSQL/PHP-pdf)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BlackBoxSQL&repo=Small-Business-Point-of-Sale-PythonTkinter)](https://github.com/BlackBoxSQL/Small-Business-Point-of-Sale-PythonTkinter)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BlackBoxSQL&theme=onedark&repo=Small-Business-Point-of-Sale-PythonTkinter)](https://github.com/BlackBoxSQL/Small-Business-Point-of-Sale-PythonTkinter)
