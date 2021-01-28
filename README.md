@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=blackboxsql" alt="blackboxsql" /></a> </p>
 
-<h3 align="left">Connect with me:</h3>  
+<h3 align="left">Connect with me 🤙</h3>  
 <p align="left">  
 <a href="https://stackoverflow.com/users/9479395/blackboxsql" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="blackboxsql" height="30" width="40" /></a>  
 <a href="https://www.leetcode.com/blackboxsql" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="blackboxsql" height="30" width="40" /></a>
@@ -21,6 +21,8 @@
 [![Nazib's github stats](https://github-readme-stats.vercel.app/api?username=BlackBoxSQL&show_icons=true&theme=onedark)](https://github.com/BlackBoxSQL)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BlackBoxSQL&theme=onedark&layout=compact)](https://github.com/BlackBoxSQL)
+
+<h3 align="left">Repository showcase 🚩</h3>
 
 <a href="https://github.com/BlackBoxSQL/Problem-Solving" target="_blank">
 <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=BlackBoxSQL&repo=Problem-Solving&theme=onedark" />
