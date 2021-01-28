@@ -1,12 +1,11 @@
 <h1 align="center">Hi 👋, I'm Nazibur Rahman</h1>  
 <h3 align="center">A programming enthusiast from Bangladesh.</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=blackboxsql&label=Profile%20views&color=0e75b6&style=flat" alt="blackboxsql" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=blackboxsql&label=PROFILE+VIEWS&color=0e75b6&style=flat&color=brightgreen" alt="blackboxsql" /> </p>
 
 -   📫 How to reach me **n.rahman.nazib@gmail.com**
 -   ⚡ Fun fact **I love doing standup comedy also play the guitar, love to travel, planning to do more long ride motorcycle camping.**
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=blackboxsql" alt="blackboxsql" /></a> </p>  
-
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=blackboxsql" alt="blackboxsql" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>  
 <p align="left">  
