@@ -24,6 +24,14 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=BlackBoxSQL&repo=Small-Business-POS-PythonTkinter&theme=onedark" />
 </a>
 
+<a href="https://github.com/BlackBoxSQL/Small-Business-POS-PythonTkinter" target="_blank">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=BlackBoxSQL&repo=Small-Business-POS-PythonTkinter&theme=onedark" />
+</a>
+
+<a href="https://github.com/BlackBoxSQL/Small-Business-POS-PythonTkinter" target="_blank">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=BlackBoxSQL&repo=Small-Business-POS-PythonTkinter&theme=onedark" />
+</a>
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BlackBoxSQL&theme=onedark&repo=PHP-pdf)](https://github.com/BlackBoxSQL/PHP-pdf)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BlackBoxSQL&theme=onedark&repo=android-notes-app-java)](https://github.com/BlackBoxSQL/android-notes-app-java)
