@@ -18,6 +18,6 @@
 
 [![Nazib's github stats](https://github-readme-stats.vercel.app/api?username=BlackBoxSQL&show_icons=true&theme=onedark)](https://github.com/BlackBoxSQL/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BlackBoxSQL)](https://github.com/BlackBoxSQL/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BlackBoxSQL&theme=onedark)](https://github.com/BlackBoxSQL/github-readme-stats)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BlackBoxSQL&repo=github-readme-stats)](https://github.com/BlackBoxSQL/github-readme-stats)
