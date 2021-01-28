@@ -1,7 +1,7 @@
 <h2 align="right">Hi 👋, I'm Nazibur Rahman</h2>  
 <h6 align="right">A programming enthusiast from Bangladesh. 🇧🇩</h6>
 
-<p align="left"><img src="https://komarev.com/ghpvc/?username=BlackBoxSQL&label=PROFILE+VIEWS&style=flat&color=brightgreen" alt="blackboxsql" /></p>
+<p align="left"><img src="https://komarev.com/ghpvc/?username=BlackBoxSQL&label=Total+Visitors&style=flat&color=brightgreen" alt="blackboxsql" /></p>
 
 -   📫 How to reach me **n.rahman.nazib@gmail.com**
 -   ⚡ Fun fact **I love doing standup comedy 🎭 also play the guitar 🎸, love to travel 🚉 , planning to do more long rides 🏍️ & motorcycle camping. 🏕️ 🔥**
