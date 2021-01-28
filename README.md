@@ -22,4 +22,8 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BlackBoxSQL&theme=onedark&repo=PHP-pdf)](https://github.com/BlackBoxSQL/PHP-pdf)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BlackBoxSQL&theme=onedark&repo=Small-Business-Point-of-Sale-PythonTkinter)](https://github.com/BlackBoxSQL/Small-Business-Point-of-Sale-PythonTkinter)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BlackBoxSQL&theme=onedark&repo=Small-Business-POS-PythonTkinter)](https://github.com/BlackBoxSQL/Small-Business-POS-PythonTkinter)
+
+<a href="https://github.com/BlackBoxSQL/Small-Business-POS-PythonTkinter" target="_blank">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=BlackBoxSQL&repo=Small-Business-POS-PythonTkinter&theme=onedark" />
+</a>
