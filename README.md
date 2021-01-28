@@ -20,18 +20,22 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BlackBoxSQL&theme=onedark&layout=compact)](https://github.com/BlackBoxSQL)
 
-<a href="https://github.com/BlackBoxSQL/Small-Business-POS-PythonTkinter" target="_blank">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=BlackBoxSQL&repo=Small-Business-POS-PythonTkinter&theme=onedark" />
+<a href="https://github.com/BlackBoxSQL/Problem-Solving" target="_blank">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=BlackBoxSQL&repo=Problem-Solving&theme=onedark" />
 </a>
 
 <a href="https://github.com/BlackBoxSQL/Small-Business-POS-PythonTkinter" target="_blank">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=BlackBoxSQL&repo=Small-Business-POS-PythonTkinter&theme=onedark" />
 </a>
 
-<a href="https://github.com/BlackBoxSQL/Small-Business-POS-PythonTkinter" target="_blank">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=BlackBoxSQL&repo=Small-Business-POS-PythonTkinter&theme=onedark" />
+<a href="https://github.com/BlackBoxSQL/android-notes-app-java" target="_blank">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=BlackBoxSQL&repo=android-notes-app-java&theme=onedark" />
 </a>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BlackBoxSQL&theme=onedark&repo=PHP-pdf)](https://github.com/BlackBoxSQL/PHP-pdf)
+<a href="https://github.com/BlackBoxSQL/redthunder2" target="_blank">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=BlackBoxSQL&repo=redthunder2&theme=onedark" />
+</a>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BlackBoxSQL&theme=onedark&repo=android-notes-app-java)](https://github.com/BlackBoxSQL/android-notes-app-java)
+<a href="https://github.com/BlackBoxSQL/PHP-pdf" target="_blank">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=BlackBoxSQL&repo=PHP-pdf&theme=onedark" />
+</a>
