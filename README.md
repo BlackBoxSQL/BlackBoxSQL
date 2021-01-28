@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Nazibur Rahman</h1>  
 <h3 align="center">A programming enthusiast from Bangladesh.</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=blackboxsql&label=Profile%20views&color=0e75b6&style=flat" alt="blackboxsql" /> </p>  
-  
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=blackboxsql&label=Profile%20views&color=0e75b6&style=flat" alt="blackboxsql" /> </p>
+
+-   📫 How to reach me **n.rahman.nazib@gmail.com**
+-   ⚡ Fun fact **I love doing standup comedy also play the guitar, love to travel, planning to do more long ride motorcycle camping.**
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=blackboxsql" alt="blackboxsql" /></a> </p>  
-  
-- 📫 How to reach me **n.rahman.nazib@gmail.com**  
-  
-- ⚡ Fun fact **I love doing standup comedy also play the guitar, love to travel, planning to do more long ride motorcycle camping.**  
-  
+
+
 <h3 align="left">Connect with me:</h3>  
 <p align="left">  
 <a href="https://stackoverflow.com/users/blackboxsql" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="blackboxsql" height="30" width="40" /></a>  
