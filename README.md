@@ -20,4 +20,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BlackBoxSQL&theme=onedark)](https://github.com/BlackBoxSQL/github-readme-stats)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BlackBoxSQL&repo=github-readme-stats)](https://github.com/BlackBoxSQL/github-readme-stats)
+<a href="https://github.com/BlackBoxSQL/Small-Business-Point-of-Sale-PythonTkinter">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=BlackBoxSQL&repo=Small-Business-Point-of-Sale-PythonTkinter&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
