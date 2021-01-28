@@ -6,6 +6,8 @@
 -   📫 How to reach me **n.rahman.nazib@gmail.com**
 -   ⚡ Fun fact **I love doing standup comedy 🎭 also play the guitar 🎸, love to travel 🚉 , planning to do more long rides 🏍️ & motorcycle camping. 🏕️ 🔥**
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=BlackBoxSQL&theme=onedark)](https://github.com/BlackBoxSQL)
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=BlackBoxSQL" alt="blackboxsql" /></a> </p>
 
 <h3 align="left">Connect with me 🤙</h3>  
