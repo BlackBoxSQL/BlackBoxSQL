@@ -4,7 +4,6 @@
 <p align="left"><img src="https://komarev.com/ghpvc/?username=BlackBoxSQL&label=Total+Visitors&style=flat&color=brightgreen" alt="blackboxsql" /></p>
 
 -   📫 How to reach me **n.rahman.nazib@gmail.com**
--   ⚡ Fun fact **I love doing standup comedy 🎭 also play the guitar 🎸, love to travel 🚉 , planning to do more long rides 🏍️ & motorcycle camping. 🏕️ 🔥**
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=BlackBoxSQL&theme=onedark)](https://github.com/BlackBoxSQL)
 
