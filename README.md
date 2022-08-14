@@ -37,5 +37,5 @@
 </a>
 
 <a href="https://github.com/BlackBoxSQL/note-svelte-django" target="_blank">
-<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=BlackBoxSQL&repo=redthunder2&theme=onedark" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=BlackBoxSQL&repo=note-svelte-django&theme=onedark" />
 </a>
