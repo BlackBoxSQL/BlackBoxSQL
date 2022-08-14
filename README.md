@@ -35,3 +35,7 @@
 <a href="https://github.com/BlackBoxSQL/redthunder2" target="_blank">
 <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=BlackBoxSQL&repo=redthunder2&theme=onedark" />
 </a>
+
+<a href="https://github.com/BlackBoxSQL/note-svelte-django" target="_blank">
+<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=BlackBoxSQL&repo=redthunder2&theme=onedark" />
+</a>
